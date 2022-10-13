@@ -1,0 +1,346 @@
+DAILY SCRUM - EVERY DAY AT 9AM (as soon as  you arrive)
+==========================================================
+
+In your shared Git repository create file "dailyscrum.txt".
+Both members of the team will write to this one file every morning at 9am.
+
+Each member writes down answers to 3 questions in the following format:
+
+<< current date goes here >>
+1. What I have done / not done since last Scrum?
+2. What I plan to do from this scrum to next? (next 24 hours)
+3. Where do I need assistance? What do I need to figure out?
+
+
+2022/09/17 Liutsiia
+===================
+1.Done / not done since last scrum:
+    Learn how to work with MongoDB
+2. To do until next Scrum:
+    Create a project and install the necessary packages
+3.Need assistance / figure things out
+    figure out how to use one database. Give public access for team developers
+    figure out how to create and use .gitignore
+
+
+2022/09/17 Oxana
+===================
+1.Done / not done since last scrum:
+    -Learn Git commands / install GitHub Desktop
+    -Learn MongoDB (structure / Install MongoDB Compass / commands / connection from NodeJS )
+2. To do until next Scrum:
+    -Create/connect MongoDB
+    -Create User table/model
+3.Need assistance / figure things out
+    -Relationships between documents in MongoDB
+
+2022/09/17 Myrzagul
+===================
+1.Done / not done since last scrum:
+    -Learnt some Git commands / how to use the GitHub Desktop
+    -Learnt MongoDB (structure / Installed MongoDB Compass / commands / connection from NodeJS )
+2. To do until next Scrum:
+    -learn about express validator/ apply some validation when registering a new user
+    -insert some data to user table and test the validation code
+3.Need assistance / figure things out
+    -hiding user's password
+
+
+2022/09/18 Liutsiia
+===================
+1.Done / not done since last scrum:
+    Create a project and install the necessary packages
+    Gave public access to DB for team developers
+2. To do until next Scrum:
+    Start worked with client side
+    Creating a React Project
+3.Need assistance / figure things out
+    Tailwind CSS
+
+
+2022/09/18 Myrzagul
+===================
+1.Done / not done since last scrum:
+    Tested(inserted some data) public access to DB for team developers
+    Installed express-validator, applied some validation for user registration
+    Used jsonwebtoken lib to make a token to hide user's info
+    Finished the login on the server side(with a minor bug)
+2. To do until next Scrum:
+    Fix the bug in the login part
+    Finish the getMe route and the rest of the routes
+    Learn about using roles of users
+3.Need assistance / figure things out
+    Relations between tables in Db and implementing roles
+
+
+2022/09/18 Oxana
+===================
+1.Done / not done since last scrum:
+    -Created/connected MongoDB schema
+    -Created User table/model
+    -Created User rgistration route on the server
+2. To do until next Scrum:
+    -Learn about Tailwind CSS
+    -Create registration page layout (frontend part))
+3.Need assistance / figure things out
+    -Tailwind CSS
+
+
+2022/09/19 Myrzagul
+===================
+1.Done / not done since last scrum:
+    added a route getUsers(only for admins) to the routes
+    Learnt a bit about using roles of users and wrote a code for the admin to get all users
+    Fixed the bug in the login on the server side
+2. To do until next Scrum:
+    Add jwt to registration
+    Work on the frontend i.e. forms for the news and index page
+3.Need assistance / figure things out
+    how to work with Redux and learn more about it
+
+
+2022/09/19 Liutsiia
+===================
+1.Done / not done since last scrum:
+    CStart worked with client side
+    Creating a React Project
+    Create a news
+    Tested registration and Login
+2. To do until next Scrum:
+    Getting a news by ID
+    Getting all news
+    Deleting a news
+
+3.Need assistance / figure things out
+    Roles for users
+
+
+
+2022/09/19 Oxana
+===================
+1.Done / not done since last scrum:
+    -created frontend/ routing
+    -created frontend user registration
+2. To do until next Scrum:
+    -Continue Frontend/connecting bootstrap
+    -Create login page layout (frontend part))
+	-switch to bootstrap
+3.Need assistance / figure things out
+    -using Redux
+
+    2022/09/20 Myrzagul
+===================
+1.Done / not done since last scrum:
+   Started working on the frontend, i.e. homepage, and addnews
+   Learning how to work with Redux
+2. To do until next Scrum:
+    Fix the problem on the homepage and finish up the addnews form with validations and images
+3.Need assistance / figure things out
+    Figure out how to fix the problem with Redux on the homepage
+
+
+ 2022/09/20 Liutsiia
+===================
+1.Done / not done since last scrum:
+    Getting all news{backend}
+    Getting a news by ID{backend}
+    Deleting a news{backend}
+    News editing{backend}
+    Getting user's news{backend}
+2. To do until next Scrum:
+    Create a comment on a news{backend}
+    Get all comments on a news{backend}
+    Start working in frontend
+
+3.Need assistance / figure things out
+    React, Redux
+
+
+
+2022/09/20 Oxana
+===================
+1.Done / not done since last scrum:
+    -Created login page layout (frontend)
+    -didn't finish forms validation login/signup
+    -user registration/login switcing between login/logout state
+2. To do until next Scrum:
+    -continue creating form validation
+    -Continue Frontend/ css
+3.Need assistance / figure things out
+    -using Redux
+
+
+ 2022/09/21 Liutsiia
+===================
+1.Done / not done since last scrum:
+    Create a comment on a news{backend}
+    Get all comments on a news{backend}
+    Show one news without comment {frontend}
+2. To do until next Scrum:
+    show all commment in news
+    add comment
+3.Need assistance / figure things out
+    Cut time in Date
+    find name in user id
+    Role in frontend
+
+
+2022/09/21 Myrzagul
+===================
+1.Done / not done since last scrum:
+   Fixed the problem on the homepage, and addnews
+   Still learning how to work with Redux
+2. To do until next Scrum:
+    Apply bootstrap on the addnews form with validations, homepage,
+    Learn how to work with S3 bucket for images
+    Try applying roles on the frontend
+3.Need assistance / figure things out
+   Figure out how to work with S3 bucket
+   Figure out how to work with S3 bucket
+
+2022/09/21 Oxana
+====================
+1.Done / not done since last scrum:
+    -didn't finish forms validation login/signup
+2. To do until next Scrum:
+    -continue creating form validation
+    -handling server errors
+3.Need assistance / figure things out
+     -how to use formik
+
+
+    2022/09/21 Liutsiia
+===================
+1.Done / not done since last scrum:
+    show all commment in news
+    add comment
+    Cuted time in Date/ found name in user id
+2. To do until next Scrum:
+    upload file to s3
+    multilingual support
+3.Need assistance / figure things out
+    s3, multilingual
+
+
+2022/09/22 Oxana
+===================
+1.Done / not done since last scrum:
+    -didn't finish forms validation login/signup
+2. To do until next Scrum:
+    -add password verification into user registration
+    -continue creating form validation
+    -handling server errors
+3.Need assistance / figure things out
+     -password verification
+
+
+2022/09/22 Myrzagul
+===================
+1.Done / not done since last scrum:
+    Applied bootstrap on the  homepage,
+   Fixing the issue with the user roles on the fron end
+2. To do until next Scrum:
+    Apply bootstrap on the addnews form with validations, homepage,
+    Learn how to work with S3 bucket for images
+3.Need assistance / figure things out
+   Need assistance with roles and S3 bucket
+
+
+   2022/09/23 Liutsiia
+===================
+1.Done / not done since last scrum:
+     done with wether api
+2. To do until next Scrum:
+    - Do Some Styling
+    - Categories
+    - show date and time
+3.Need assistance / figure things out
+     - search on the site
+
+
+      2022/09/23 Myrzagul
+===================
+1.Done / not done since last scrum:
+   Wrote the getMyNews page
+   Wrote the EditNews page
+   Still figuring out how to solve the issue with the user roles on the front end
+2. To do until next Scrum:
+    Apply bootstrap on the addnews/editnews form and validations
+    Learn how to work with S3 bucket for images
+3.Need assistance / figure things out
+   Need assistance with roles and S3 bucket
+
+
+2022/09/23 Oxana
+===================
+1.Done / not done since last scrum:
+    -add password verification into user registration
+    -didn't finish forms validation login/signup
+2. To do until next Scrum:
+	-admin panel get all users (frontend)
+	-admin panel edit state and role of the user (frontend)
+	-get all users ( backend )
+	-edit user ( backend )
+	-continue with bootstrap css
+ 	-continue password confirmation
+     -handling server errors
+3.Need assistance / figure things out
+     -getting message from backend while login
+
+
+   2022/09/24 Myrzagul
+===================
+1.Done / not done since last scrum:
+   Wrote EditNews page 
+   Wrote/added Deletenews method
+   Figured out issue with the user roles 
+2. To do until next Scrum:
+    Add protected routes and give access to users depending on their roles
+    Apply bootstrap on the addnews/editnews form and validations
+    Learn how to work with S3 bucket for images
+3.Need assistance / figure things out
+   Need with protected routes, roles and S3 bucket
+
+
+2022/09/25 Oxana
+===================
+1.Done / not done since last scrum:
+-get all users ( backend )
+	-admin panel get all users (frontend)
+     -didn't finish forms validation login/signup
+2. To do until next Scrum:
+	-contine with forms validation login/signup
+	-admin panel edit state and role of the user
+	-continue with bootstrap
+ 	-continue password confirmation
+	-continue with bootstrap css
+3.Need assistance / figure things out
+     -getting messages from backend while login
+<<<<<<< HEAD
+=======
+     
+     
+   2022/09/25 Myrzagul
+===================
+1.Done / not done since last scrum:
+   Looked through some tutorials about S3, and tried implementing it in our project
+   Created S3 bucket on aws, but having troubles applying it to our project
+   Worked on fixing the bug with adding categories when creating news 
+2. To do until next Scrum:
+    Add protected routes and give access to users depending on their roles
+    learn about deploying the project on heroku
+3.Need assistance / figure things out
+   Need with protected routes, roles, S3 bucket and heroku
+
+
+    2022/09/26 Myrzagul
+===================
+1.Done / not done since last scrum:
+  Tried fixing the bugs with integrating S3 bucket to our project but failed
+   Worked on the navigation bar making it possible to change depending on the user role
+   Fixed the bug with categories
+   Finish up the project and prepare for the presentation
+3.Need assistance / figure things out
+   Need with protected routes, roles, S3 bucket and heroku
+
+
